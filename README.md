@@ -8,4 +8,4 @@
 7. Sieve of eratosthenes. CS5200 Gem5 simulation helped here lol.
 8. Kind of Sliding window more of brute force. 
 9. Meh, Math.
-10.
+10. Tried Everything. I liked the implementation of the Sieve of Eratosthenes function more.
