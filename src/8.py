@@ -36,3 +36,8 @@ def solution_substrings() -> int:
         largest = max(largest, product)
     return largest
 print(solution_substrings())
+
+def solution_sliding_window() -> int:
+    largest = 1
+    return largest
+print(solution_sliding_window())
