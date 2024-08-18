@@ -11,3 +11,4 @@
 10. Tried Everything. I liked the implementation of the Sieve of Eratosthenes function more.
 11. Just some array things
 12. Need to optimize this somehow.
+13. math
