@@ -12,3 +12,4 @@
 11. Just some array things
 12. Need to optimize this somehow.
 13. math
+14. Too many sequences in the same pattern, memoization or caching would be more efficient. 
