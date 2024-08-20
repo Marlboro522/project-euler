@@ -14,4 +14,4 @@
 12. Need to optimize this somehow.
 13. math
 14. Too many sequences in the same pattern, memoization or caching would be more efficient.The sequences appear as the number grows large, coupling this with a recursive approach should significantly improve time.
-15. WTF is even that ? Math or brute force ?
+15. WTF is even that ? Math or brute force ? Recursive cached appraoch worked beautifully. The solution I got from https://euler.beerbaronbill.com/en/latest/solutions/15.html 
